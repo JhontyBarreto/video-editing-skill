@@ -1,0 +1,7 @@
+node_modules/
+out/
+final/
+.DS_Store
+*.env
+.env*
+!video-editing/templates/elevenlabs.env.example

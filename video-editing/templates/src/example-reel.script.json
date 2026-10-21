@@ -1,0 +1,13 @@
+{
+  "voiceId": "JBFqnCBsd6RMkjVDRZzb",
+  "speed": 1.08,
+  "display": [
+    ["example dot com", "example.com"],
+    ["forty two", "42"]
+  ],
+  "lines": [
+    { "id": "hook", "say": "Every line you write here becomes one scene." },
+    { "id": "proof", "say": "This number counts up on the exact word. Forty two." },
+    { "id": "cta", "say": "Then the call to action lands. Visit example dot com." }
+  ]
+}
